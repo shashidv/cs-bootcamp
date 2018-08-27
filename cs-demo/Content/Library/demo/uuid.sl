@@ -2,7 +2,7 @@
 #!!
 #! @description Generates random ID
 ###################################################################################################################
-namespace:io.cloudslang.demo
+namespace: io.cloudslang.demo
 
 operation:
   name: uuid
